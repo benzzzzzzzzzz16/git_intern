@@ -1,1 +1,4 @@
-console.log("hello git");
+console.log("git");
+
+let a = 10;
+console.log(a);
